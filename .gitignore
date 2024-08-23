@@ -13,7 +13,7 @@ szbl_wet_experiment/
 *.h5
 
 # Ignore TensorFlow SaveModel folder
-tf_model/
+# tf_model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
