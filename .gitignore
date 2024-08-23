@@ -4,7 +4,7 @@ szbl_wet_experiment/
 # ignore large files(more than 100M)
 
 # csv
-*.csv
+
 mhc_ligand_full_column_filter.csv
 
 # excel

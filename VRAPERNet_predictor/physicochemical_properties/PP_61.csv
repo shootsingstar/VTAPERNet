@@ -1,0 +1,62 @@
+﻿,properties
+21,"Residue_volume_(Goldsack-Chalifoux,_1973)"
+22,"Molecular_weight_(Fasman,_1976)"
+23,Accessible surface area(Å2)
+24,"Mean_area_buried_on_transfer_(Rose_et_al.,_1985)"
+25,"Smoothed_upsilon_steric_parameter_(Fauchere_et_al.,_1989)"
+31,"Entropy_of_formation_(Hutchens,_1970)"
+34,"Melting_point_(Fasman,_1976)"
+61,"Normalized_relative_frequency_of_bend_R_(Isogai_et_al.,_1981)"
+62,"Absolute_entropy_(Hutchens,_1970)"
+63,"Heat_capacity_(Hutchens,_1970)"
+67,"Positive_charge_(Fauchere_et_al.,_1989)"
+73,Buriability
+128,"Radius_of_gyration_of_side_chain_(Levitt,_1976)"
+132,Protein binding propensity
+149,"Free_energy_of_solution_in_water,_kcal/mole_(Charton-Charton,_1982)"
+167,"Hydration_potential_(Wolfenden_et_al.,_1981)"
+169,"Average_non-bonded_energy_per_residue_(Oobatake-Ooi,_1977)"
+170,"Optical_rotation_(Fasman,_1976)"
+173,"Partition_coefficient_(Pliska_et_al.,_1981)"
+174,"Negative_charge_(Fauchere_et_al.,_1989)"
+175,"Hydropathy_index_(Kyte-Doolittle,_1982)"
+182,"Average_accessible_surface_area_(Janin_et_al.,_1979)"
+188,Amphiphilicity index
+193,"Transfer_free_energy_(Simon,_1976),_Cited_by_Charton-Charton_(1982)"
+195,"Hydrophobicity_(Jones,_1975)"
+200,"Hydration_free_energy_(Robson-Osguthorpe,_1979)"
+201,"STERIMOL_maximum_width_of_the_side_chain_(Fauchere_et_al.,_1989)"
+202,"Hydrophobicity_index_(Argos_et_al.,_1982)"
+204,"Solvation_free_energy_(Eisenberg-McLachlan,_1986)"
+217,"Normalized_average_hydrophobicity_scales_(Cid_et_al.,_1992)"
+218,"Number_of_hydrogen_bond_donors_(Fauchere_et_al.,_1989)"
+219,"Ratio_of_buried_and_accessible_molar_fractions_(Janin,_1979)"
+222,"Mean_polarity_(Radzicka-Wolfenden,_1988)"
+280,"Apparent_partial_specific_volume_(Bull-Breese,_1975)"
+281,"Polarizability_parameter_(Charton-Charton,_1983)"
+282,"Helix-coil_equilibrium_constant_(Finkelstein-Ptitsyn,_1977)"
+302,"pK-a(RCOOH)_(Fauchere_et_al.,_1988)"
+328,pK2 (NH )
+329,"Polar_requirement_(Woese,_1973)"
+330,"Polarity_(Grantham,_1974)"
+331,Ranking of amino acid polarities
+335,Polarity.1
+336,"Hydrophobicity_(Prabhakaran,_1990)"
+370,"Transfer_free_energy_to_lipophilic_phase_(von_Heijne-Blomberg,_1979)"
+371,"Side_chain_hydropathy,_uncorrected_for_solvation_(Roseman,_1988)"
+386,"Partition_energy_(Guy,_1985)"
+387,"Hydration_number_(Hopfinger,_1971),_Cited_by_Charton-Charton_(1983)"
+388,"Heat_capacity_(Hutchens,_1971)"
+389,"Absolute_entropy_(Hutchens,_1971)"
+395,Hydrophilicity scale
+396,Polarity.2
+397,Isoelectric point.1
+415,"Solvation_free_energy_(Eisenberg-McLachlan,_1987)"
+468,"Number_of_full_nonbonding_orbitals_(Fauchere_et_al.,_1989)"
+469,"Average_reduced_distance_for_side_chain_(Rackovsky-Scheraga,_1977)"
+470,"Side_chain_orientational_preference_(Rackovsky-Scheraga,_1977)"
+522,"Normalized_frequency_of_isolated_helix_(Tanaka-Scheraga,_1977)"
+524,"Average_flexibility_indices_(Bhaskaran-Ponnuswamy,_1989)"
+525,"Residue_volume_(Bigelow,_1968)"
+656,Hydrophobicity
+657,"Smoothed_upsilon_steric_parameter_(Fauchere_et_al.,_1988)"
