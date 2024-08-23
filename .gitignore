@@ -10,7 +10,7 @@ szbl_wet_experiment/
 *.data
 
 # model file
-*.h5
+# *.h5
 
 # Ignore TensorFlow SaveModel folder
 # tf_model/
