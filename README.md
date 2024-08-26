@@ -3,5 +3,5 @@ Deep Learning Volumetric Residue-Aligned Physicochemical Evolutionary Representa
 
 
 # Description of dataset and model files
-Due to limitations on GitHub, this repository only pushes files smaller than 50M.
-Files larger than 100M can be downloaded using the link in the corresponding directory's  `readme.md`
+Due to limitations on GitHub, this repository only pushes files smaller than 10M.
+Files larger than 10M can be downloaded using the link in the corresponding directory's  `readme.md`
