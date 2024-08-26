@@ -2,6 +2,10 @@
 szbl_wet_experiment/
 
 # ignore large files(more than 100M)
+mhc_ligand_full_single_file.zip
+mhc_ligand_full.csv
+mhc_ligand_full_column_filter.csv
+mhc_ligand_desired_column_filter.csv
 
 # excel
 *.xlsx
