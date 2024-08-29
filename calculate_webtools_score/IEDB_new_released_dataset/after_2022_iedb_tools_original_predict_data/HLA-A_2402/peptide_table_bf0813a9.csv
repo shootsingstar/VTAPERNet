@@ -1,0 +1,2 @@
+seq #,peptide,start,end,peptide length,allele,peptide index,median binding percentile,netmhcpan_ba core,netmhcpan_ba icore,netmhcpan_ba IC50,netmhcpan_ba percentile,ann IC50,ann percentile,smmpmbec IC50,smmpmbec percentile,smm IC50,smm percentile,mhcflurry IC50,mhcflurry percentile
+1,HYSPLILAL,1,9,9,HLA-A*24:02,1,0.51,HYSPLILAL,HYSPLILAL,190.48,0.23,314.8,0.51,601.1183698856396,1,637.7199450443057,1.1,35.02,0.12
