@@ -1,11 +1,14 @@
 #szbl_wet_experiment
 szbl_wet_experiment/
 
-# ignore large files(more than 100M)
+# ignore large files
 mhc_ligand_full_single_file.zip
+data_curated.20180219.tar.bz2
+models_class1_selected_no_mass_spec.20180225.tar.bz2
 mhc_ligand_full.csv
 mhc_ligand_full_column_filter.csv
 mhc_ligand_desired_column_filter.csv
+curated_training_data.no_mass_spec.csv
 
 # excel
 *.xlsx
