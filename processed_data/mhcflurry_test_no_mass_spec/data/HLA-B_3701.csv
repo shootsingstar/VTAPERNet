@@ -1,5 +1,0 @@
-allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
-HLA-B*37:01,AENLWVTVY,113.85285800000001,=,quantitative,kim2014,9,0.5623841107517934
-HLA-B*37:01,LEYFQFVKKLL,20000.0,=,quantitative, - purified MHC/competitive/fluorescence,11,0.08468664586171759
-HLA-B*37:01,VKSMILHEI,582.134979,=,quantitative,kim2014,9,0.41156813234376266
-HLA-B*37:01,YSLEYFQFVKK,20000.0,=,quantitative, - purified MHC/competitive/fluorescence,11,0.08468664586171759

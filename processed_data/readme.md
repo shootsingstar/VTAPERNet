@@ -7,3 +7,11 @@ Steps:
 
 2.Execute the first **seven** code cells of `data_process/IEDB_single_data_process.ipynb`
 
+### Get `mhcflurry_training_no_mass_spec` and `mhcflurry_test_no_mass_spec`
+
+Steps:
+
+1.Download the `MHCflurry dataset` according to the `original_data/readme.md`
+
+2.Execute `data_process_MHCflurry_no_mass_spec.ipynb`
+

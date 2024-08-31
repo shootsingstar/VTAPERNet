@@ -9,6 +9,8 @@ mhc_ligand_full.csv
 mhc_ligand_full_column_filter.csv
 mhc_ligand_desired_column_filter.csv
 curated_training_data.no_mass_spec.csv
+mhcflurry_training_no_mass_spec
+mhcflurry_test_no_mass_spec
 
 # excel
 *.xlsx
