@@ -1,0 +1,4 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-B*57:03,FSVPLDEGF,21.0000183716,=,quantitative,kim2014,9,0.7186149999997831
+HLA-B*57:03,HTQGYFPDWQN,674.420299,=,quantitative,kim2014,11,0.3979679311019019
+HLA-B*57:03,VSRRANGWF,33.9999991256,=,quantitative,kim2014,9,0.6740819999999923

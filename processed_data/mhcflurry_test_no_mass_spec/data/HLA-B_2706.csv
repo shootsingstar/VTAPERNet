@@ -1,0 +1,5 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-B*27:06,GRLTKHTKF,4000.0,=,quantitative,Castro - cellular MHC/direct/fluorescence,9,0.23343626624470304
+HLA-B*27:06,RRAAAAAAAI,2000.0,=,quantitative,pez - cellular MHC/direct/fluorescence,10,0.2974992407659711
+HLA-B*27:06,RRSKEITVR,30000.0,=,quantitative,Castro - cellular MHC/direct/fluorescence,9,0.04721220808212079
+HLA-B*27:06,RRWLPAGDA,30000.0,=,quantitative,Castro - cellular MHC/direct/fluorescence,9,0.04721220808212079

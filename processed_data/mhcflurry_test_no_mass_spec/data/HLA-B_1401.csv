@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-B*14:01,ARLKIRGSL,1037.9671970000004,=,quantitative,kim2014,9,0.3581181352751218
+HLA-B*14:01,ARYARAAAL,8.308596000000001,=,quantitative,kim2014,9,0.8043129363773291
+HLA-B*14:01,AYIDNYNKF,2521.826579,=,quantitative,kim2014,9,0.27607215739685875
+HLA-B*14:01,DRYRARHSL,2.558655,=,quantitative,kim2014,9,0.9131699647529644
+HLA-B*14:01,LQYEGGAAL,14485.574987,=,quantitative,kim2014,9,0.11450046822490756

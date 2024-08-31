@@ -1,0 +1,15 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-C*07:02,AYSSWMYSY,284.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.4779029579283939
+HLA-C*07:02,FRMTENVPL,48.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.6422106896140631
+HLA-C*07:02,HRMNKILHY,141.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.5426191036179913
+HLA-C*07:02,LPFHNVHPL,2490.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.2772460041324245
+HLA-C*07:02,RMMGVKYLM,859.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.3756093013737325
+HLA-C*07:02,RQLLWRYQI,2227.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.2875629735995553
+HLA-C*07:02,RRRPVTRPL,1.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,1.0
+HLA-C*07:02,RRRQWASCM,45.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.648175555015285
+HLA-C*07:02,SMLSYGNVL,614.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.4066426539074821
+HLA-C*07:02,YALPSAGAF,404.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.44532921838072126
+HLA-C*07:02,YQVKYVSPV,4515.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.22224279974608163
+HLA-C*07:02,YRSMIAFKL,45.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.648175555015285
+HLA-C*07:02,YYGRWVHEF,46.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,9,0.6461441911424741
+HLA-C*07:02,YYNAFHWA,397.0,=,quantitative,Ph.D. - purified MHC/direct/fluorescence,8,0.44694464864320127

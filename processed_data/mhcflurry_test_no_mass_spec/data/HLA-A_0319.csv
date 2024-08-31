@@ -1,0 +1,5 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-A*03:19,GMMRWCMPV,1129.9,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.35027463341423226
+HLA-A*03:19,MTMLTRWKI,3513.4,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.2454245092671723
+HLA-A*03:19,RMFKRVFNM,22.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.7122385295365531
+HLA-A*03:19,RVMAIFMAL,53.6,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.6320119540884137

@@ -1,0 +1,7 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-E*01:03,FMTRLGPLL,37000.0,=,quantitative,kim2014,9,0.027829137055217723
+HLA-E*01:03,IMANRAQVL,400.0,=,quantitative,kim2014,9,0.4462488611489567
+HLA-E*01:03,QMRACARRL,1500.0,=,quantitative,kim2014,9,0.3240877775076425
+HLA-E*01:03,RLANLLPLI,32000.0,=,quantitative,kim2014,9,0.04124734268089891
+HLA-E*01:03,TSADRAVVL,39000.0,=,quantitative,kim2014,9,0.022963627605613324
+HLA-E*01:03,VLPACLGIL,12000.0,=,quantitative,kim2014,9,0.13189885394383838

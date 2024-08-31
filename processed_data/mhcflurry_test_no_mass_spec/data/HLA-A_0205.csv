@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-A*02:05,FLPSDYFPSQ,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,10,0.4395647443696111
+HLA-A*02:05,FLPSDYFPST,195.5,=,quantitative,Sette - purified MHC/competitive/radioactivity,10,0.5124151123293598
+HLA-A*02:05,YDVAYQATV,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.4395647443696111
+HLA-A*02:05,YLVAYQATK,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.4395647443696111
+HLA-A*02:05,YLVKYQATV,4.3,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.8651899341781183

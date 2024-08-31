@@ -1,0 +1,15 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM
+HLA-B*73:01,ARIDARIDF,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,FPLWWVSSI,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,FPYAIRLVA,129.8,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.5502685289511731
+HLA-B*73:01,FRAAVRAHF,3500.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.24577768296457447
+HLA-B*73:01,GRWMLPQGM,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,HRYLIRQSM,581.7,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.4116372181037087
+HLA-B*73:01,KQWGWFALL,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,MRIPVERTL,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,NRWKSWFSY,9.8,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.7890546066951201
+HLA-B*73:01,RRATAILRK,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,RRRIGEIFK,20000.0,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.08468664586171759
+HLA-B*73:01,SRIGAWASK,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,SRKKGFLGL,20000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.08468664586171759
+HLA-B*73:01,SRWRIRSGL,2400.6,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.28062537138066035

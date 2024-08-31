@@ -7,6 +7,8 @@
 2.Unzip the downloaded file to this directory and ensure that the extracted file name is `mhc_ligand_full.csv`
 
 ### MHCflurry dataset
+> O'Donnell, Timothy (2019), “MHCflurry: open-source class I MHC binding affinity prediction”, Mendeley Data, V3, doi: 10.17632/8pz43nvvxh.3
+
 1.Download the curated dataset for training and validation from [MHCflurry Data Site](https://data.mendeley.com/datasets/8pz43nvvxh/1) compressed in `data_curated.20180219.tar.bz2` or just click this [MHCflurry Dataset Download Link](https://data.mendeley.com/public-files/datasets/8pz43nvvxh/files/1f2a42bb-9393-4442-b501-270d500dab37/file_downloaded).
 
 And then unzip the downloaded file to this directory and ensure that the final extracted file name is `curated_training_data.no_mass_spec.csv`
