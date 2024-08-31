@@ -1,0 +1,32 @@
+﻿,properties
+1,vander Waals volume (Å3)
+2,Accessible surface area(Å2)
+3,"Entropy_of_formation_(Hutchens,_1970)"
+4,"Melting_point_(Fasman,_1976)"
+5,"Heat_capacity_(Hutchens,_1970)"
+6,"Positive_charge_(Fauchere_et_al.,_1989)"
+7,Buriability
+8,"Average_surrounding_hydrophobicity_(Manavalan-Ponnuswamy,_1978)"
+9,"Radius_of_gyration_of_side_chain_(Levitt,_1976)"
+10,"Free_energy_of_solution_in_water,_kcal/mole_(Charton-Charton,_1982)"
+11,"Hydration_potential_(Wolfenden_et_al.,_1981)"
+12,"Hydropathy_index_(Kyte-Doolittle,_1982)"
+13,"Transfer_free_energy_(Simon,_1976),_Cited_by_Charton-Charton_(1982)"
+14,"Hydrophobicity_(Jones,_1975)"
+15,"Hydration_free_energy_(Robson-Osguthorpe,_1979)"
+16,"Hydrophobicity_index_(Argos_et_al.,_1982)"
+17,"Solvation_free_energy_(Eisenberg-McLachlan,_1986)"
+18,"Number_of_hydrogen_bond_donors_(Fauchere_et_al.,_1989)"
+19,"Mean_polarity_(Radzicka-Wolfenden,_1988)"
+20,"Polarizability_parameter_(Charton-Charton,_1983)"
+21,"pK-a(RCOOH)_(Fauchere_et_al.,_1988)"
+22,"Polarity_(Grantham,_1974)"
+23,"Hydrophobicity_(Prabhakaran,_1990)"
+24,"Number_of_full_nonbonding_orbitals_(Fauchere_et_al.,_1988)"
+25,"Side_chain_hydropathy,_uncorrected_for_solvation_(Roseman,_1988)"
+26,"Heat_capacity_(Hutchens,_1971)"
+27,Polarity.2
+28,"Solvation_free_energy_(Eisenberg-McLachlan,_1987)"
+29,"Average_reduced_distance_for_side_chain_(Rackovsky-Scheraga,_1977)"
+30,"Average_flexibility_indices_(Bhaskaran-Ponnuswamy,_1989)"
+31,Hydrophobicity

@@ -1,0 +1,741 @@
+Column1,properties,embedding
+0,"Weights_for_beta-sheet_at_the_window_position_of_0_(Qian-Sejnowski,_1988)",-23.495632
+1,"Weights_for_alpha-helix_at_the_window_position_of_2_(Qian-Sejnowski,_1988)",-23.479221
+2,"Normalized_frequency_of_C-terminal_helix_(Chou-Fasman,_1979b)",-23.46864
+3,"Weights_for_alpha-helix_at_the_window_position_of_3_(Qian-Sejnowski,_1988)",-23.46769
+4,"Weights_for_beta-sheet_at_the_window_position_of_1_(Qian-Sejnowski,_1988)",-23.456024
+5,"Weights_for_alpha-helix_at_the_window_position_of_0_(Qian-Sejnowski,_1988)",-23.451504
+6,"Weights_for_alpha-helix_at_the_window_position_of_1_(Qian-Sejnowski,_1988)",-23.441078
+7,"Weights_for_alpha-helix_at_the_window_position_of_4_(Qian-Sejnowski,_1988)",-23.41737
+8,Monoisotopic mass (daltons),-19.743082
+9,Average residue mass b (daltons),-19.690302
+10,Residue Weight (-H2O),-19.686525
+11,vander Waals volume (?3),-19.666563
+12,"Side_chain_angle_theta(AAR)_(Levitt,_1976)",-19.63879
+13,"Volume_(Grantham,_1974)",-19.60042
+14,"Residue_volume_(Bigelow,_1967)",-19.555452
+15,"Average_side_chain_orientation_angle_(Meirovitch_et_al.,_1980)",-19.544506
+16,"Side_chain_volume_(Krigbaum-Komoriya,_1979)",-19.543676
+17,"Composition_(Grantham,_1975)",-17.516342
+18,"Residue_volume_(Goldsack-Chalifoux,_1974)",-17.498365
+19,Average volumes of residues,-17.495182
+20,Molecular Weight,-17.383282
+21,"Residue_volume_(Goldsack-Chalifoux,_1973)",-17.36378
+22,"Molecular_weight_(Fasman,_1976)",-17.362682
+23,Accessible surface area(?2),-17.350264
+24,"Mean_area_buried_on_transfer_(Rose_et_al.,_1985)",-17.350138
+25,"Smoothed_upsilon_steric_parameter_(Fauchere_et_al.,_1989)",-17.318968
+26,"Normalized_van_der_Waals_volume_(Fauchere_et_al.,_1989)",-17.313753
+27,Vr (?3),-17.210146
+28,"Average_volume_of_buried_residue_(Chothia,_1975)",-17.153578
+29,"Accessible_surface_area_(Radzicka-Wolfenden,_1988)",-17.119396
+30,"Residue_accessible_surface_area_in_tripeptide_(Chothia,_1976)",-17.038202
+31,"Entropy_of_formation_(Hutchens,_1970)",-16.75136
+32,"Side_chain_torsion_angle_phi(AAAR)_(Levitt,_1976)",-16.712309
+33,¦Â-res,-16.637154
+34,"Melting_point_(Fasman,_1976)",-16.602272
+35,No. CCR (% binding),-16.53367
+36,"Compositional frequency (Jungck,(1978))",-16.46095
+37,Ribose.1,-16.406683
+38,"Sequence_frequency_(Jungck,_1978)",-16.399508
+39,Phosphate,-16.345453
+40,¦Â.1,-16.096758
+41,¦Á-¦µ-¦·,-16.070534
+42,No. NCR (% binding),-16.055418
+43,¦Á-Helix.1,-16.024296
+44,¦Â-¦µ-¦·.1,-15.996498
+45,BLP Score (rank).1,-15.906866
+46,Propensity score,-15.8931675
+47,BLP Score (rank),-15.862292
+48,G,-13.37307
+49,C,-13.350396
+50,Phosphate.1,-13.296091
+51,U,-13.27651
+52,Ribose,-13.142217
+53,Sa-ex,-13.067028
+54,"Percentage_of_exposed_residues_(Janin_et_al.,_1978)",-13.045778
+55,"Residue_accessible_surface_area_in_folded_protein_(Chothia,_1976)",-13.042914
+56,"Average_accessible_surface_area_(Janin_et_al.,_1978)",-12.981317
+57,"Relative_mutability_(Dayhoff_et_al.,_1978b)",-12.726202
+58,In database (Number),-12.704905
+59,"Relative_mutability_(Jones_et_al.,_1992)",-12.626231
+60,Ss-c,-12.621663
+61,"Normalized_relative_frequency_of_bend_R_(Isogai_et_al.,_1981)",-12.299807
+62,"Absolute_entropy_(Hutchens,_1970)",-12.261193
+63,"Heat_capacity_(Hutchens,_1970)",-12.184571
+64,Sa-bu,-12.008623
+65,"Percentage_of_buried_residues_(Janin_et_al.,_1978)",-12.002272
+66,Percent buried residues(%),-11.784827
+67,"Positive_charge_(Fauchere_et_al.,_1989)",-11.708431
+68,"Zimm-Bragg_parameter_sigma_x_1.0E4_(Sueki_et_al.,_1984)",-11.344183
+69,Ss-¦Á,-11.280419
+70,"Refractivity_(McMeekin_et_al.,_1964),_Cited_by_Jones_(1975)",-11.225306
+71,¦Á-bu,-11.21683
+72,"Aperiodic_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1981)",-11.210689
+73,Buriability,-11.209116
+74,Ss-¦Â,-11.207092
+75,¦Â-bu,-11.158407
+76,c-bu,-11.128048
+77,Sa-pb,-11.11843
+78,"The_Kerr-constant_increments_(Khanarian-Moore,_1980)",-11.046173
+79,"Value_of_theta(i-1)_(Rackovsky-Scheraga,_1982)",-10.872758
+80,No. CRS (% binding),-10.846552
+81,"Value_of_theta(i)_(Rackovsky-Scheraga,_1982)",-10.754482
+82,c-ex,-10.6195545
+83,"alpha-CH_chemical_shifts_(Andersen_et_al.,_1993)",-10.609519
+84,"Activation_Gibbs_energy_of_unfolding,_pH7.0_(Yutani_et_al.,_1987)",-10.603402
+85,Bulkiness,-10.378279
+86,"Membrane-buried_preference_parameters_(Argos_et_al.,_1983)",-10.359638
+87,"Surrounding_hydrophobicity_in_beta-sheet_(Ponnuswamy_et_al.,_1980)",-10.307742
+88,c-pb,-10.256599
+89,"Average_surrounding_hydrophobicity_(Manavalan-Ponnuswamy,_1978)",-10.197483
+90,"Surrounding_hydrophobicity_in_folded_form_(Ponnuswamy_et_al.,_1980)",-10.184318
+91,"N.m.r._chemical_shift_of_alpha-carbon_(Fauchere_et_al.,_1988)",-10.170606
+92,"Surrounding_hydrophobicity_in_turn_(Ponnuswamy_et_al.,_1980)",-10.163989
+93,"Surrounding_hydrophobicity_in_alpha-helix_(Ponnuswamy_et_al.,_1980)",-10.143596
+94,"The_number_of_atoms_in_the_side_chain_labelled_3+1_(Charton-Charton,_1984)",-10.128313
+95,"Weights_for_coil_at_the_window_position_of_2_(Qian-Sejnowski,_1988)",-8.386372
+96,"Residue_accessible_surface_area_in_folded_protein_(Chothia,_1977)",-8.338082
+97,"Weights_for_coil_at_the_window_position_of_-1_(Qian-Sejnowski,_1988)",-8.337053
+98,"Weights_for_coil_at_the_window_position_of_0_(Qian-Sejnowski,_1988)",-8.3311825
+99,¦Á-Helix,-8.327593
+100,"Weights_for_coil_at_the_window_position_of_3_(Qian-Sejnowski,_1988)",-8.304226
+101,"Average_reduced_distance_for_C-alpha_(Rackovsky-Scheraga,_1977)",-8.291844
+102,"Retention_coefficient_in_NaClO4_(Meek-Rossetti,_1981)",-7.3667364
+103,RNA functional category-mRNA,-7.366
+104,"Retention_coefficient_in_NaH2PO4_(Meek-Rossetti,_1981)",-7.3253083
+105,mRNA binding  propensity,-7.321429
+106,"Retention_coefficient_in_HPLC,_pH2.1_(Meek,_1980)",-7.32106
+107,"Retention_coefficient_in_HPLC,_pH7.4_(Meek,_1980)",-7.3199863
+108,"Retention_coefficient_in_TFA_(Browne_et_al.,_1982)",-7.300607
+109,"Retention_coefficient_in_HFBA_(Browne_et_al.,_1982)",-7.2846355
+110,"Normalized_frequency_of_alpha-helix_in_alpha+beta_class_(Palau_et_al.,_1981)",-6.418137
+111,"Relative_frequency_in_alpha-helix_(Prabhakaran,_1990)",-6.399382
+112,"Normalized_frequency_of_alpha-helix,_with_weights_(Levitt,_1978)",-6.388995
+113,"Normalized_frequency_of_C-terminal_helix_(Chou-Fasman,_1978b)",-6.3411527
+114,"Relative_preference_value_at_C2_(Richardson-Richardson,_1988)",-6.3392925
+115,"Average_relative_fractional_occurrence_in_EL(i-1)_(Rackovsky-Scheraga,_1982)",-5.901559
+116,"Helix_initiation_parameter_at_posision_i,i+1,i+2_(Finkelstein_et_al.,_1991)",-5.8627143
+117,¦Â-res.1,-5.85382
+118,"Normalized_frequency_of_alpha-helix_(Chou-Fasman,_1979b)",-5.837576
+119,To Ar,-5.308652
+120,"STERIMOL_minimum_width_of_the_side_chain_(Fauchere_et_al.,_1988)",-5.285703
+121,"Helix_initiation_parameter_at_posision_i-1_(Finkelstein_et_al.,_1991)",-5.2855544
+122,bu Ar,-5.2768497
+123,pb Ar,-5.264287
+124,ex ¦Ð,-5.2536235
+125,"P2,3 (CO)",-5.2495604
+126,"A_parameter_of_charge_transfer_donor_capability_(Charton-Charton,_1984)",-5.2389855
+127,bu ¦µ,-5.2210417
+128,"Radius_of_gyration_of_side_chain_(Levitt,_1976)",-5.2152677
+129,"Helix_termination_parameter_at_posision_j-2,j-1,j_(Finkelstein_et_al.,_1991)",-5.0970526
+130,"The_number_of_atoms_in_the_side_chain_labelled_1+1_(Charton-Charton,_1983)",-5.071143
+131,"Helix_termination_parameter_at_posision_j+1_(Finkelstein_et_al.,_1991)",-5.0148673
+132,Protein binding propensity,-4.897451
+133,P_1 (binding sites),-4.8965516
+134,"Relative_preference_value_at_C""_(Richardson-Richardson,_1988)",-4.8736916
+135,"Average_relative_fractional_occurrence_in_ER(i-1)_(Rackovsky-Scheraga,_1982)",-4.5932636
+136,RNA functional category-rRNA,-4.4209604
+137,rRNA binding propensity,-4.420338
+138,Full data set,-4.387509
+139,RNA functional category-tRNA,-4.351905
+140,tRNA binding propensity,-4.339336
+141,"Average_relative_fractional_occurrence_in_A0(i-1)_(Rackovsky-Scheraga,_1982)",-4.0291495
+142,"Relative_preference_value_at_C1_(Richardson-Richardson,_1988)",-3.9745343
+143,"Normalized_frequency_of_chain_reversal_D_(Tanaka-Scheraga,_1977)",-3.8922038
+144,"Proportion_of_residues_95%_buried_(Chothia,_1977)",-3.7749784
+145,¦Á-helix-¦µ-¦·,-3.7735012
+146,"Normalized_frequency_of_chain_reversal_(Tanaka-Scheraga,_1977)",-3.7479525
+147,"The_Chou-Fasman_parameter_of_the_coil_conformation_(Charton-Charton,_1983)",-3.719666
+148,"Average_relative_fractional_occurrence_in_EL(i)_(Rackovsky-Scheraga,_1982)",-3.6814477
+149,"Free_energy_of_solution_in_water,_kcal/mole_(Charton-Charton,_1982)",-3.6535525
+150,A ( [conservation propensities on P_2]/[propensity on P_2] ),-3.5850203
+151,"Normalized_frequency_of_N-terminal_non_beta_region_(Chou-Fasman,_1978b)",-3.5762553
+152,"Information_measure_for_extended_without_H-bond_(Robson-Suzuki,_1976)",-3.5714982
+153,"Principal_property_value_z3_(Wold_et_al.,_1987)",-3.5139809
+154,"Normalized_frequency_of_coil_(Nagano,_1973)",-3.5119047
+155,"Normalized_frequency_of_beta-turn_(Chou-Fasman,_1978a)",-3.4495118
+156,"Normalized_frequency_of_turn_(Crawford_et_al.,_1973)",-3.3979342
+157,"Normalized_frequency_of_turn_from_CF_(Palau_et_al.,_1981)",-3.3921602
+158,"Aperiodic_indices_for_beta-proteins_(Geisow-Roberts,_1980)",-3.31035
+159,"Composition_(Grantham,_1974)",-3.230119
+160,Valids-Contacts per-Atom.1,-3.0248384
+161,Invalids-Contacts per-Atom.1,-2.9386587
+162,Invalids-Contacts per-Atom,-2.9005365
+163,"8_A_contact_number_(Nishikawa-Ooi,_1980)",-2.869689
+164,"Transfer_free_energy_from_vap_to_oct_(Radzicka-Wolfenden,_1988)",-2.3106616
+165,q (N6),-2.2757287
+166,"Short_and_medium_range_non-bonded_energy_per_residue_(Oobatake-Ooi,_1977)",-2.2744324
+167,"Hydration_potential_(Wolfenden_et_al.,_1981)",-2.237598
+168,"Transfer_free_energy_from_vap_to_chx_(Radzicka-Wolfenden,_1988)",-2.2340348
+169,"Average_non-bonded_energy_per_residue_(Oobatake-Ooi,_1977)",-2.2208939
+170,"Optical_rotation_(Fasman,_1976)",-2.1869738
+171,"Transfer_free_energy_from_chx_to_oct_(Radzicka-Wolfenden,_1988)",-2.0877178
+172,"Transfer_free_energy_from_chx_to_wat_(Radzicka-Wolfenden,_1988)",-2.049053
+173,"Partition_coefficient_(Pliska_et_al.,_1981)",-1.9894751
+174,"Negative_charge_(Fauchere_et_al.,_1989)",-1.9465057
+175,"Hydropathy_index_(Kyte-Doolittle,_1982)",-1.8765688
+176,"Information_measure_for_extended_(Robson-Suzuki,_1976)",-1.8207967
+177,"Information_measure_for_pleated-sheet_(Robson-Suzuki,_1976)",-1.7616262
+178,"Percentage_of_buried_residues_(Janin_et_al.,_1979)",-1.7326258
+179,"Information_measure_for_middle_helix_(Robson-Suzuki,_1976)",-1.7272598
+180,"Information_measure_for_C-terminal_helix_(Robson-Suzuki,_1976)",-1.720145
+181,"Information_measure_for_alpha-helix_(Robson-Suzuki,_1976)",-1.6926254
+182,"Average_accessible_surface_area_(Janin_et_al.,_1979)",-1.6639317
+183,"Normalized_relative_frequency_of_coil_(Isogai_et_al.,_1981)",-1.6500422
+184,"Normalized_relative_frequency_of_helix_end_(Isogai_et_al.,_1981)",-1.5609305
+185,14,-1.5499392
+186,"Information_measure_for_C-terminal_turn_(Robson-Suzuki,_1976)",-1.2201917
+187,"Graph_shape_index_(Fauchere_et_al.,_1989)",-1.1314505
+188,Amphiphilicity index,-1.1275647
+189,RNA functional category-Ligand,-1.0774186
+190,"Partition_coefficient_(Garel_et_al.,_1973)",-1.0421299
+191,"Relative_preference_value_at_N4_(Richardson-Richardson,_1988)",-1.0315696
+192,Propensity to protein binding hot spot,-0.92651063
+193,"Transfer_free_energy_(Simon,_1976),_Cited_by_Charton-Charton_(1982)",-0.9144256
+194,Enrichment in hot spots,-0.9067535
+195,"Hydrophobicity_(Jones,_1975)",-0.82322484
+196,"Principal_property_value_z2_(Wold_et_al.,_1987)",-0.80679905
+197,"Hydrophobicity_factor_(Goldsack-Chalifoux,_1973)",-0.8039576
+198,"Transfer_energy,_organic_solvent/water_(Nozaki-Tanford,_1971)",-0.7304095
+199,"N.m.r._chemical_shift_of_alpha-carbon_(Fauchere_et_al.,_1989)",-0.7047299
+200,"Hydration_free_energy_(Robson-Osguthorpe,_1979)",-0.64561373
+201,"STERIMOL_maximum_width_of_the_side_chain_(Fauchere_et_al.,_1989)",-0.64118093
+202,"Hydrophobicity_index_(Argos_et_al.,_1982)",-0.62342167
+203,"Beta-coil_equilibrium_constant_(Ptitsyn-Finkelstein,_1983)",-0.5763942
+204,"Solvation_free_energy_(Eisenberg-McLachlan,_1986)",-0.5201414
+205,"Optimized_beta-structure-coil_equilibrium_constant_(Oobatake_et_al.,_1985)",-0.5193949
+206,"Normalized_hydrophobicity_scales_for_beta-proteins_(Cid_et_al.,_1992)",-0.51120824
+207,"Transfer_free_energy_from_oct_to_wat_(Radzicka-Wolfenden,_1988)",-0.5100211
+208,"Hydrophobic_parameter_pi_(Fauchere-Pliska,_1983)",-0.47526842
+209,"Normalized_relative_frequency_of_alpha-helix_(Isogai_et_al.,_1981)",-0.2716233
+210,"Optimal_matching_hydrophobicity_(Sweet-Eisenberg,_1983)",-0.26247445
+211,"Normalized_composition_of_mt-proteins_(Nakashima_et_al.,_1990)",-0.1991715
+212,"Normalized_relative_frequency_of_bend_S_(Isogai_et_al.,_1981)",-0.18237136
+213,"Normalized_relative_frequency_of_double_bend_(Isogai_et_al.,_1981)",-0.17798696
+214,"Normalized_frequency_of_beta-sheet_(Crawford_et_al.,_1973)",-0.16908391
+215,"Conformational_preference_for_parallel_beta-strands_(Lifson-Sander,_1979)",-0.1522886
+216,"Normalized_composition_from_animal_(Nakashima_et_al.,_1990)",-0.1342365
+217,"Normalized_average_hydrophobicity_scales_(Cid_et_al.,_1992)",-0.103323065
+218,"Number_of_hydrogen_bond_donors_(Fauchere_et_al.,_1989)",0.013202529
+219,"Ratio_of_buried_and_accessible_molar_fractions_(Janin,_1979)",0.020860694
+220,"Relative_preference_value_at_C4_(Richardson-Richardson,_1988)",0.05030289
+221,"Normalized_hydrophobicity_scales_for_alpha+beta-proteins_(Cid_et_al.,_1992)",0.10479174
+222,"Mean_polarity_(Radzicka-Wolfenden,_1988)",0.19955842
+223,"Signal_sequence_helical_potential_(Argos_et_al.,_1982)",0.24335276
+224,"STERIMOL_minimum_width_of_the_side_chain_(Fauchere_et_al.,_1989)",0.32170945
+225,"Partition_energy_(Guy,_1986)",0.32269046
+226,"Membrane-buried_preference_parameters_(Argos_et_al.,_1982)",0.3315056
+227,Average internal preferences,0.36878246
+228,Rk,0.42617384
+229,"Conformational_preference_for_all_beta-strands_(Lifson-Sander,_1979)",0.4730985
+230,"Average_relative_probability_of_beta-sheet_(Kanehisa-Tsong,_1980)",0.60277414
+231,"Bitterness_(Venanzi,_1984)",0.7076806
+232,"Relative_frequency_in_beta-sheet_(Prabhakaran,_1990)",0.7573684
+233,"Normalized_frequency_of_beta-sheet,_with_weights_(Levitt,_1978)",0.7700683
+234,"Normalized_frequency_of_bata-structure_(Nagano,_1973)",0.82542324
+235,"Normalized_frequency_of_beta-sheet_(Chou-Fasman,_1978b)",0.8614124
+236,"Normalized_frequency_of_beta-sheet_from_LG_(Palau_et_al.,_1981)",0.8686857
+237,"Normalized_frequency_of_beta-sheet,_unweighted_(Levitt,_1978)",0.8697301
+238,"Beta-strand_indices_(Geisow-Roberts,_1980)",0.8750143
+239,"Average_relative_probability_of_inner_beta-sheet_(Kanehisa-Tsong,_1980)",0.8795624
+240,"Normalized_frequency_of_beta-sheet_from_CF_(Palau_et_al.,_1981)",0.91284066
+241,"Beta-strand_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1980)",0.914443
+242,"Normalized_frequency_of_beta-sheet_in_alpha/beta_class_(Palau_et_al.,_1981)",0.92187554
+243,"Normalized_frequency_of_C-terminal_beta-sheet_(Chou-Fasman,_1978b)",0.943732
+244,"Frequency_of_the_2nd_residue_in_turn_(Chou-Fasman,_1979b)",1.0301511
+245,"Normalized_relative_frequency_of_bend_(Isogai_et_al.,_1981)",1.2046134
+246,"Alpha-helix_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1981)",1.2177331
+247,"Normalized_hydrophobicity_scales_for_alpha/beta-proteins_(Cid_et_al.,_1992)",1.2224026
+248,Hydrophobicity scale.1,1.2311844
+249,"Normalized_frequency_of_extended_structure_(Tanaka-Scheraga,_1977)",1.2653259
+250,"Average_relative_fractional_occurrence_in_AR(i)_(Rackovsky-Scheraga,_1982)",1.4211293
+251,"Relative_preference_value_at_N5_(Richardson-Richardson,_1988)",1.4549578
+252,"Normalized_frequency_of_chain_reversal_S_(Tanaka-Scheraga,_1977)",1.5489662
+253,"A_parameter_of_charge_transfer_donor_capability_(Charton-Charton,_1983)",1.5712405
+254,"Normalized_frequency_of_beta-sheet_in_all-beta_class_(Palau_et_al.,_1981)",1.5779548
+255,"Conformational_preference_for_antiparallel_beta-strands_(Lifson-Sander,_1979)",1.6179643
+256,"Normalized_frequency_of_zeta_R_(Maxfield-Scheraga,_1976)",1.7351074
+257,"Alpha-helix_indices_for_beta-proteins_(Geisow-Roberts,_1980)",1.745529
+258,"Ratio_of_average_and_computed_composition_(Nakashima_et_al.,_1990)",1.7849813
+259,"Average_relative_fractional_occurrence_in_E0(i)_(Rackovsky-Scheraga,_1982)",1.822057
+260,Rb,1.8426481
+261,Ro,1.8982483
+262,Membrane preference ,1.9168125
+263,"Membrane_preference_for_cytochrome_b:_MPH89_(Degli_Esposti_et_al.,_1990)",1.941309
+264,"Normalized_frequency_of_alpha-helix_in_all-alpha_class_(Palau_et_al.,_1981)",1.9542735
+265,"Alpha-helix_indices_for_alpha-proteins_(Geisow-Roberts,_1980)",1.9573482
+266,"Normalized_frequency_of_extended_structure_(Maxfield-Scheraga,_1976)",1.9730165
+267,Average_membrane_preference:_AMP07,1.977457
+268,"Normalized_relative_frequency_of_extended_structure_(Isogai_et_al.,_1980)",1.9930311
+269,"Average_relative_fractional_occurrence_in_E0(i-1)_(Rackovsky-Scheraga,_1982)",1.9960393
+270,To ¦µ,2.01256
+271,"Signal_sequence_helical_potential_(Argos_et_al.,_1983)",2.027216
+272,"Normalized_hydrophobicity_scales_for_alpha-proteins_(Cid_et_al.,_1992)",2.2139754
+273,"Zimm-Bragg_parameter_s_at_20_C_(Sueki_et_al.,_1984)",2.4566598
+274,"Normalized_frequency_of_N-terminal_beta-sheet_(Chou-Fasman,_1978b)",2.4640996
+275,"Helix-coil_equilibrium_constant_(Ptitsyn-Finkelstein,_1983)",2.549773
+276,"Normalized_frequency_of_extended_structure_(Burgess_et_al.,_1975)",2.570639
+277,"Normalized_frequency_of_alpha-helix_(Maxfield-Scheraga,_1976)",2.5921898
+278,"Normalized_frequency_of_alpha-helix_(Burgess_et_al.,_1975)",2.6103988
+279,"alpha-NH_chemical_shifts_(Bundi-Wuthrich,_1980)",2.6504276
+280,"Apparent_partial_specific_volume_(Bull-Breese,_1975)",2.6918535
+281,"Polarizability_parameter_(Charton-Charton,_1983)",2.715706
+282,"Helix-coil_equilibrium_constant_(Finkelstein-Ptitsyn,_1977)",2.9358628
+283,"Average_relative_probability_of_inner_helix_(Kanehisa-Tsong,_1980)",2.9833612
+284,"Normalized_frequency_of_alpha-helix_from_CF_(Palau_et_al.,_1981)",3.0069485
+285,"Beta-strand_indices_for_beta-proteins_(Geisow-Roberts,_1980)",3.0286024
+286,"The_number_of_atoms_in_the_side_chain_labelled_3+1_(Charton-Charton,_1983)",3.0469532
+287,"Steric_parameter_(Charton,_1982)",3.0473485
+288,"Relative_preference_value_at_C5_(Richardson-Richardson,_1988)",3.0552833
+289,"Normalized_frequency_of_beta-sheet_in_alpha+beta_class_(Palau_et_al.,_1981)",3.058109
+290,"Information_value_for_accessibility;_average_fraction_23%_(Biou_et_al.,_1988)",3.87375
+291,"Normalized_frequency_of_the_2nd_and_3rd_residues_in_turn_(Chou-Fasman,_1979b)",3.9234436
+292,"Frequency_of_the_4th_residue_in_turn_(Chou-Fasman,_1979b)",3.9459484
+293,"Frequency_of_the_3rd_residue_in_turn_(Chou-Fasman,_1979b)",3.9479878
+294,"Normalized_hydrophobicity_scales_for_beta-proteins_(Cid_et_al.,_1993)",3.9495802
+295,"Normalized_hydrophobicity_scales_for_alpha-proteins_(Cid_et_al.,_1993)",3.9564342
+296,"Normalized_hydrophobicity_scales_for_alpha/beta-proteins_(Cid_et_al.,_1993)",3.9629514
+297,"Normalized_hydrophobicity_scales_for_alpha+beta-proteins_(Cid_et_al.,_1993)",3.9835794
+298,"Information_value_for_accessibility;_average_fraction_35%_(Biou_et_al.,_1988)",3.9844754
+299,"STERIMOL_maximum_width_of_the_side_chain_(Fauchere_et_al.,_1988)",4.939165
+300,"Normalized_frequency_of_beta-sheet_(Chou-Fasman,_1979b)",4.943613
+301,"alpha-CH_chemical_shifts_(Bundi-Wuthrich,_1979)",4.9493675
+302,"pK-a(RCOOH)_(Fauchere_et_al.,_1988)",4.958778
+303,"alpha-CH_chemical_shifts_(Andersen_et_al.,_1992)",4.963456
+304,Invalids-Contacts per-Res.1,5.112336
+305,"STERIMOL_length_of_the_side_chain_(Fauchere_et_al.,_1988)",5.1402826
+306,"Size_(Dawson,_1972)",5.1839337
+307,Invalids-Contacts per-Res,5.351847
+308,"Conformational_parameter_of_beta-structure_(Beghin-Dirkx,_1976)",5.380951
+309,pl (the pH at the isoelectric point),5.3830276
+310,Isoelectric point,5.401521
+311,"van_der_Waals_parameter_R0_(Levitt,_1976)",5.4615254
+312,¦Â-pb,5.486537
+313,"Average_number_of_surrounding_residues_(Ponnuswamy_et_al.,_1980)",5.495432
+314,Contribute >= 2 kcal/mol (%),5.500198
+315,Valids-Contacts per-Res.1,5.5200562
+316,Valids-Contacts per-Res,5.600532
+317,C190,5.6944213
+318,"Average_interactions_per_side_chain_atom_(Warme-Morgan,_1978)",5.726412
+319,"alpha-NH_chemical_shifts_(Bundi-Wuthrich,_1979)",5.7576365
+320,"Unfolding_Gibbs_energy_in_water,_pH9.0_(Yutani_et_al.,_1987)",5.797239
+321,"Average_gain_in_surrounding_hydrophobicity_(Ponnuswamy_et_al.,_1980)",5.821451
+322,¦Á-pb,5.8847084
+323,"Conformational_parameter_of_beta-turn_(Beghin-Dirkx,_1976)",5.9860115
+324,"Frequency_of_the_1st_residue_in_turn_(Chou-Fasman,_1979b)",5.9937024
+325,pKb (the negative of the logarithm of the dissociation constant for the -NH3 group),6.053799
+326,"pK-N_(Fasman,_1976)",6.071704
+327,"Unfolding_Gibbs_energy_in_water,_pH7.0_(Yutani_et_al.,_1987)",6.0924225
+328,pK2 (NH ),6.109989
+329,"Polar_requirement_(Woese,_1973)",6.2588086
+330,"Polarity_(Grantham,_1974)",6.2864895
+331,Ranking of amino acid polarities,6.415682
+332,¦Á-ex,6.5230613
+333,G.1,6.583243
+334,"Conformational_parameter_of_inner_helix_(Beghin-Dirkx,_1976)",6.7883754
+335,Polarity.1,6.8015385
+336,"Hydrophobicity_(Prabhakaran,_1990)",6.834479
+337,"Normalized_frequency_of_alpha-helix_in_alpha/beta_class_(Palau_et_al.,_1981)",7.125448
+338,"Normalized_relative_frequency_of_double_bend_(Isogai_et_al.,_1980)",7.245058
+339,"Relative_preference_value_at_N2_(Richardson-Richardson,_1988)",7.2530746
+340,"Relative_preference_value_at_N3_(Richardson-Richardson,_1988)",7.3692374
+341,"Normalized_frequency_of_middle_helix_(Crawford_et_al.,_1973)",7.4379554
+342,"Transfer_free_energy_to_surface_(Bull-Breese,_1975)",7.45704
+343,"Normalized_frequency_of_alpha-helix_from_LG_(Palau_et_al.,_1981)",7.5751767
+344,"Normalized_frequency_of_alpha-helix_(Nagano,_1973)",7.5895925
+345,"Spin-spin_coupling_constants_3JHalpha-NH_(Bundi-Wuthrich,_1980)",7.6651697
+346,"Normalized_frequency_of_alpha-helix,_unweighted_(Levitt,_1978)",7.712688
+347,"Average_relative_probability_of_helix_(Kanehisa-Tsong,_1980)",7.7583523
+348,"Normalized_frequency_of_alpha-helix_(Chou-Fasman,_1978b)",7.8844604
+349,"Alpha-helix_indices_(Geisow-Roberts,_1980)",7.939618
+350,"Alpha-helix_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1980)",7.965362
+351,"The_number_of_atoms_in_the_side_chain_labelled_2+1_(Charton-Charton,_1983)",7.974149
+352,"Normalized_frequency_of_alpha-helix_(Tanaka-Scheraga,_1977)",7.987173
+353,"Average_relative_fractional_occurrence_in_AR(i-1)_(Rackovsky-Scheraga,_1982)",7.9966874
+354,"Normalized_relative_frequency_of_alpha-helix_(Isogai_et_al.,_1980)",8.0498
+355,"Relative_preference_value_at_Mid_(Richardson-Richardson,_1988)",8.09517
+356,"A_parameter_defined_from_the_residuals_obtained_from_the_best_correlation_of_the_Chou-Fasman_parameter_of_beta-sheet_(Charton-Charton,_1984)",8.107964
+357,ex Ar,8.152337
+358,pb ¦µ,8.197209
+359,"Normalized_frequency_of_zeta_R_(Tanaka-Scheraga,_1977)",8.50611
+360,ex +,8.785002
+361,"Relative_preference_value_at_N""_(Richardson-Richardson,_1988)",8.795295
+362,ex -,8.820906
+363,"Relative_preference_value_at_N'_(Richardson-Richardson,_1988)",8.823636
+364,"Normalized_frequency_of_turn_in_alpha+beta_class_(Palau_et_al.,_1981)",8.831649
+365,A,8.9727
+366,"Hydration_number_(Hopfinger,_1971),_Cited_by_Charton-Charton_(1982)",9.18256
+367,"Normalized_average_hydrophobicity_scales_(Cid_et_al.,_1993)",9.1834545
+368,"Number_of_full_nonbonding_orbitals_(Fauchere_et_al.,_1988)",9.286086
+369,"Relative_mutability_(Jones_et_al.,_1993)",9.403219
+370,"Transfer_free_energy_to_lipophilic_phase_(von_Heijne-Blomberg,_1979)",9.453451
+371,"Side_chain_hydropathy,_uncorrected_for_solvation_(Roseman,_1988)",9.51437
+372,"HPLC_parameter_(Parker_et_al.,_1986)",9.547936
+373,"Optimized_average_non-bonded_energy_per_atom_(Oobatake_et_al.,_1985)",9.610076
+374,"Percentage_of_exposed_residues_(Janin_et_al.,_1979)",9.6193
+375,"Principal_property_value_z1_(Wold_et_al.,_1987)",9.683843
+376,"Side_chain_hydropathy,_corrected_for_solvation_(Roseman,_1988)",9.818895
+377,"Hydrophobic_parameter_(Levitt,_1976)",9.834201
+378,Ph,9.836242
+379,"Amino_acid_distribution_(Jukes_et_al.,_1976)",9.874683
+380,"Hydrophilicity_value_(Hopp-Woods,_1981)",9.934567
+381,"Optimized_propensity_to_form_reverse_turn_(Oobatake_et_al.,_1985)",9.955747
+382,"Transfer_free_energy_to_surface_(Bull-Breese,_1974)",9.98501
+383,"Average_non-bonded_energy_per_atom_(Oobatake-Ooi,_1977)",10.117131
+384,"Short_and_medium_range_non-bonded_energy_per_atom_(Oobatake-Ooi,_1977)",10.124534
+385,"Ratio_of_buried_and_accessible_molar_fractions_(Janin,_1980)",10.126566
+386,"Partition_energy_(Guy,_1985)",10.169598
+387,"Hydration_number_(Hopfinger,_1971),_Cited_by_Charton-Charton_(1983)",10.34366
+388,"Heat_capacity_(Hutchens,_1971)",10.509674
+389,"Absolute_entropy_(Hutchens,_1971)",10.5553
+390,"Flexibility_parameter_for_two_rigid_neighbors_(Karplus-Schulz,_1985)",10.563815
+391,bu -,10.582545
+392,Average Accessible surface area,10.587098
+393,"Net_charge_(Klein_et_al.,_1984)",10.600343
+394,The residue singlet interface propensities  in a logarithm (log2) scale,11.029699
+395,Hydrophilicity scale,11.043339
+396,Polarity.2,11.091697
+397,Isoelectric point.1,11.116243
+398,C.1,11.445317
+399,U.1,11.459508
+400,A.1,11.555427
+401,Invalids-%Site,11.6096945
+402,Small molecule invalid ligand binding propensity,11.62137
+403,Invalids-%Site.1,11.658301
+404,"Spin-spin_coupling_constants_3JHalpha-NH_(Bundi-Wuthrich,_1979)",11.673462
+405,Valids-%Site,11.676151
+406,Contribute >= 2 kcal/mol (Number),11.717851
+407,Small molecule valid ligand binding propensity,11.806511
+408,Valids-%Site.1,11.891656
+409,¦Â-ex,11.917768
+410,"Optimized_side_chain_interaction_parameter_(Oobatake_et_al.,_1985)",11.985485
+411,Composition of FPs: B (%),12.031966
+412,"Side_chain_interaction_parameter_(Krigbaum-Komoriya,_1979)",12.099636
+413,"Side_chain_interaction_parameter_(Krigbaum-Rubin,_1971)",12.103293
+414,"AA_composition_of_CYT_of_multi-spanning_proteins_(Nakashima-Nishikawa,_1992)",12.103984
+415,"Solvation_free_energy_(Eisenberg-McLachlan,_1987)",12.214565
+416,"Amino_acid_composition_(Dayhoff_et_al.,_1979a)",12.27378
+417,In database (%),12.273865
+418,Composition of amino acids in intracellular proteins (percent),12.3242235
+419,Average_membrane_preference:_AMP08,12.331038
+420,"Membrane_preference_for_cytochrome_b:_MPH89_(Degli_Esposti_et_al.,_1991)",12.369702
+421,"Hydrophobic_parameter_pi_(Fauchere-Pliska,_1984)",12.376544
+422,Occurrence in proteins (%),12.445799
+423,Composition of Non-BLP: B (%),12.510977
+424,"Normalized_frequency_of_C-terminal_non_beta_region_(Chou-Fasman,_1979b)",12.515311
+425,% [15],12.527148
+426,"Normalized_frequency_of_turn_(Crawford_et_al.,_1974)",12.533564
+427,"Normalized_frequency_of_N-terminal_non_beta_region_(Chou-Fasman,_1979b)",12.585628
+428,Composition of luciferases: A (%) ,12.588949
+429,"AA_composition_of_total_proteins_(Nakashima_et_al.,_1990)",12.604538
+430,"Optical_rotation_(Fasman,_1977)",12.610619
+431,Composition of amino acids in anchored proteins (percent),12.620127
+432,"pK-N_(Fasman,_1977)",12.651645
+433,To,12.682933
+434,"AA_composition_of_EXT_of_single-spanning_proteins_(Nakashima-Nishikawa,_1992)",12.704441
+435,"Normalized_frequency_of_N-terminal_beta-sheet_(Chou-Fasman,_1979b)",12.720781
+436,"Consensus_normalized_hydrophobicity_scale_(Eisenberg,_1985)",12.724813
+437,"Normalized_frequency_of_C-terminal_beta-sheet_(Chou-Fasman,_1979b)",12.7813635
+438,"pK-C_(Fasman,_1977)",12.810405
+439,"AA_composition_of_EXT_of_multi-spanning_proteins_(Nakashima-Nishikawa,_1992)",12.963712
+440,Composition of BLP: A (%),13.013491
+441,"Amino_acid_composition_(Dayhoff_et_al.,_1978a)",13.033956
+442,Compositional frequency (Dayhoff et al. (1978)),13.037126
+443,"AA_composition_of_EXT2_of_single-spanning_proteins_(Nakashima-Nishikawa,_1992)",13.042656
+444,"% [13,14]",13.054539
+445,Composition of amino acids in extracellular proteins (percent),13.069657
+446,"Normalized_frequency_of_beta-sheet_(Crawford_et_al.,_1974)",13.104766
+447,Composition of BLPs (%),13.253061
+448,Composition of membrane (%).1,13.476002
+449,"Size_(Dawson,_1973)",13.487094
+450,Composition of membrane (%),13.5103245
+451,Composition of amino acids in membrane proteins (percent),13.557325
+452,"AA_composition_of_membrane_proteins_(Nakashima_et_al.,_1990)",13.591242
+453,"Molecular_weight_(Fasman,_1977)",13.635164
+454,"AA_composition_of_mt-proteins_from_fungi_and_plant_(Nakashima_et_al.,_1990)",13.828122
+455,"Direction_of_hydrophobic_moment_(Eisenberg-McLachlan,_1987)",13.832688
+456,"AA_composition_of_mt-proteins_from_animal_(Nakashima_et_al.,_1990)",13.866931
+457,"AA_composition_of_mt-proteins_(Nakashima_et_al.,_1990)",13.87059
+458,"Melting_point_(Fasman,_1977)",13.90742
+459,"Atom-based_hydrophobic_moment_(Eisenberg-McLachlan,_1987)",13.911528
+460,"Transmembrane_regions_of_mt-proteins_(Nakashima_et_al.,_1990)",13.945217
+461,"Transmembrane_regions_of_non-mt-proteins_(Nakashima_et_al.,_1990)",13.960494
+462,"AA_composition_of_MEM_of_single-spanning_proteins_(Nakashima-Nishikawa,_1992)",13.973057
+463,"AA_composition_of_MEM_of_multi-spanning_proteins_(Nakashima-Nishikawa,_1992)",13.9985485
+464,EV4,14.377124
+465,"Number_of_hydrogen_bond_donors_(Fauchere_et_al.,_1988)",14.3978815
+466,"Atom-based_hydrophobic_moment_(Eisenberg-McLachlan,_1986)",14.425369
+467,"Average_relative_fractional_occurrence_in_AL(i)_(Rackovsky-Scheraga,_1982)",14.694366
+468,"Number_of_full_nonbonding_orbitals_(Fauchere_et_al.,_1989)",14.740488
+469,"Average_reduced_distance_for_side_chain_(Rackovsky-Scheraga,_1977)",14.773014
+470,"Side_chain_orientational_preference_(Rackovsky-Scheraga,_1977)",14.782178
+471,pb +,14.827801
+472,"Average_reduced_distance_for_side_chain_(Meirovitch_et_al.,_1980)",14.841911
+473,"Flexibility_parameter_for_one_rigid_neighbor_(Karplus-Schulz,_1985)",14.856195
+474,"Flexibility_parameter_for_no_rigid_neighbors_(Karplus-Schulz,_1985)",14.8665695
+475,"Average_volume_of_buried_residue_(Chothia,_1976)",14.907084
+476,"A_parameter_of_charge_transfer_capability_(Charton-Charton,_1984)",14.910412
+477,"Average_reduced_distance_for_C-alpha_(Meirovitch_et_al.,_1980)",14.924248
+478,"Information_value_for_accessibility;_average_fraction_23%_(Biou_et_al.,_1989)",14.924383
+479,¦Â,14.963183
+480,"The_number_of_atoms_in_the_side_chain_labelled_1+1_(Charton-Charton,_1984)",15.015679
+481,"Normalized_frequency_of_turn_in_all-beta_class_(Palau_et_al.,_1981)",15.047355
+482,"Proportion_of_residues_100%_buried_(Chothia,_1977)",15.05752
+483,"Retention_coefficient_in_TFA_(Browne_et_al.,_1983)",15.222234
+484,"Alpha-helix_indices_(Geisow-Roberts,_1981)",15.259741
+485,P_2 (exposed surfaces),15.330712
+486,"Beta-strand_indices_for_beta-proteins_(Geisow-Roberts,_1981)",15.360356
+487,B ( [conservation propensities on P_1]/[propensity on P_1] ),15.382008
+488,"Normalized_frequency_of_C-terminal_non_beta_region_(Chou-Fasman,_1978b)",15.390225
+489,"Normalized_frequency_of_alpha_region_(Maxfield-Scheraga,_1976)",15.594425
+490,"Normalized_frequency_of_turn_from_LG_(Palau_et_al.,_1981)",15.621574
+491,"Normalized_relative_frequency_of_bend_(Isogai_et_al.,_1980)",15.6941185
+492,"Normalized_frequency_of_turn_in_alpha/beta_class_(Palau_et_al.,_1981)",15.729422
+493,"Normalized_frequency_of_reverse_turn,_with_weights_(Levitt,_1978)",15.732486
+494,"Normalized_relative_frequency_of_helix_end_(Isogai_et_al.,_1980)",15.748051
+495,"Relative_frequency_in_reverse-turn_(Prabhakaran,_1990)",15.750081
+496,"Normalized_frequency_of_beta-turn_(Chou-Fasman,_1978b)",15.774212
+497,"Normalized_frequency_of_turn_in_all-alpha_class_(Palau_et_al.,_1981)",15.774728
+498,"Information_measure_for_middle_turn_(Robson-Suzuki,_1976)",15.888071
+499,"Information_measure_for_loop_(Robson-Suzuki,_1976)",15.888746
+500,"Aperiodic_indices_for_alpha-proteins_(Geisow-Roberts,_1980)",15.917214
+501,"Aperiodic_indices_(Geisow-Roberts,_1980)",15.977726
+502,"Normalized_frequency_of_the_2nd_and_3rd_residues_in_turn_(Chou-Fasman,_1978b)",15.986803
+503,"Information_measure_for_turn_(Robson-Suzuki,_1976)",16.005667
+504,"Information_measure_for_N-terminal_turn_(Robson-Suzuki,_1976)",16.025179
+505,"Aperiodic_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1980)",16.094402
+506,"Normalized_frequency_of_reverse_turn,_unweighted_(Levitt,_1978)",16.13841
+507,Li,16.176262
+508,"Information_measure_for_coil_(Robson-Suzuki,_1976)",16.183079
+509,"Retention_coefficient_in_HFBA_(Browne_et_al.,_1983)",16.280813
+510,"Normalized_relative_frequency_of_bend_R_(Isogai_et_al.,_1980)",16.281292
+511,"Information_measure_for_N-terminal_helix_(Robson-Suzuki,_1976)",16.353203
+512,"Normalized_frequency_of_N-terminal_helix_(Chou-Fasman,_1978b)",16.365631
+513,"The_number_of_bonds_in_the_longest_chain_(Charton-Charton,_1984)",16.452278
+514,¦Â-¦µ-¦·,16.464916
+515,"Normalized_frequency_of_beta-turn_(Chou-Fasman,_1979a)",16.466455
+516,"Normalized_frequency_of_chain_reversal_R_(Tanaka-Scheraga,_1977)",16.469194
+517,"Relative_preference_value_at_N1_(Richardson-Richardson,_1988)",16.480593
+518,"Weights_for_coil_at_the_window_position_of_1_(Qian-Sejnowski,_1988)",16.488813
+519,"Transfer_free_energy,_CHP/water_(Lawson_et_al.,_1984)",16.52014
+520,"The_number_of_atoms_in_the_side_chain_labelled_2+1_(Charton-Charton,_1984)",16.82356
+521,"Information_value_for_accessibility;_average_fraction_35%_(Biou_et_al.,_1989)",16.830137
+522,"Normalized_frequency_of_isolated_helix_(Tanaka-Scheraga,_1977)",16.89766
+523,"Relative_preference_value_at_C'_(Richardson-Richardson,_1988)",17.093939
+524,"Average_flexibility_indices_(Bhaskaran-Ponnuswamy,_1989)",17.116915
+525,"Residue_volume_(Bigelow,_1968)",17.232933
+526,"Normalized_frequency_of_C-terminal_non_helical_region_(Chou-Fasman,_1978b)",17.265387
+527,"Normalized_frequency_of_N-terminal_helix_(Chou-Fasman,_1979b)",17.285088
+528,Rc,17.305683
+529,pb ¦Ð,17.321299
+530,To ¦Ð,17.335497
+531,bu ¦Ð,17.349916
+532,"Normalized_frequency_of_N-terminal_non_helical_region_(Chou-Fasman,_1978b)",17.384104
+533,"Aperiodic_indices_(Geisow-Roberts,_1981)",17.625536
+534,RNA functional category-vRNA,17.670233
+535,"Positive_charge_(Fauchere_et_al.,_1988)",17.675652
+536,pb -,17.681768
+537,To -,17.690966
+538,"Normalized_frequency_of_middle_helix_(Crawford_et_al.,_1974)",17.69347
+539,"The_Chou-Fasman_parameter_of_the_coil_conformation_(Charton-Charton,_1984)",17.843876
+540,"Polarity_(Grantham,_1975)",17.945509
+541,To +,18.031092
+542,"A_parameter_of_charge_transfer_capability_(Charton-Charton,_1983)",18.035194
+543,"Normalized_frequency_of_coil_(Tanaka-Scheraga,_1977)",18.10509
+544,"Relative_preference_value_at_N-cap_(Richardson-Richardson,_1988)",18.328232
+545,"Normalized_frequency_of_zeta_L_(Maxfield-Scheraga,_1976)",18.362917
+546,"Normalized_frequency_of_left-handed_helix_(Tanaka-Scheraga,_1977)",18.373014
+547,"Average_relative_fractional_occurrence_in_ER(i)_(Rackovsky-Scheraga,_1982)",18.374502
+548,"Relative_preference_value_at_C-cap_(Richardson-Richardson,_1988)",18.410416
+549,"Normalized_relative_frequency_of_bend_S_(Isogai_et_al.,_1980)",18.426464
+550,"Normalized_relative_frequency_of_coil_(Isogai_et_al.,_1980)",18.42711
+551,"Average_relative_fractional_occurrence_in_AL(i-1)_(Rackovsky-Scheraga,_1982)",18.444317
+552,"Normalized_frequency_of_left-handed_alpha-helix_(Maxfield-Scheraga,_1976)",18.518959
+553,"Normalized_van_der_Waals_volume_(Fauchere_et_al.,_1988)",20.158703
+554,"Accessibility_reduction_ratio_(Ponnuswamy_et_al.,_1980)",20.16191
+555,"Aperiodic_indices_for_beta-proteins_(Geisow-Roberts,_1981)",20.179327
+556,"The_number_of_bonds_in_the_longest_chain_(Charton-Charton,_1983)",20.186762
+557,"Aperiodic_indices_for_alpha-proteins_(Geisow-Roberts,_1981)",20.200521
+558,"Distance_between_C-alpha_and_centroid_of_side_chain_(Levitt,_1976)",20.441422
+559,"Effective_partition_energy_(Miyazawa-Jernigan,_1985)",20.531706
+560,"Graph_shape_index_(Fauchere_et_al.,_1988)",20.551058
+561,"?, D",20.621078
+562,"Localized_electrical_effect_(Fauchere_et_al.,_1989)",20.622498
+563,"Average_gain_ratio_in_surrounding_hydrophobicity_(Ponnuswamy_et_al.,_1980)",20.654428
+564,"pK-C_(Fasman,_1976)",20.67828
+565,"pK_(-COOH)_(Jones,_1975)",20.704708
+566,pKa (the negative of the logarithm of the dissociation constant for the -COOH group),20.716047
+567,"SD_of_AA_composition_of_total_proteins_(Nakashima_et_al.,_1990)",20.756565
+568,pK1 (COOH),20.768307
+569,"Amino_acid_distribution_(Jukes_et_al.,_1975)",20.80278
+570,Compositional frequency (Jukes et al. (1975)),20.837667
+571,Diff (V - I)-Contacts per-Res.1,21.111319
+572,Diff (V - I)-Contacts per-Res,21.184155
+573,"Alpha-helix_indices_for_alpha-proteins_(Geisow-Roberts,_1981)",22.037132
+574,"Alpha-helix_indices_for_beta-proteins_(Geisow-Roberts,_1981)",22.044683
+575,"Average_relative_fractional_occurrence_in_A0(i)_(Rackovsky-Scheraga,_1982)",22.05219
+576,"Partition_coefficient_(Garel_et_al.,_1974)",22.05488
+577,"Beta-strand_indices_(Geisow-Roberts,_1981)",22.071018
+578,"Beta-strand_indices_for_alpha/beta-proteins_(Geisow-Roberts,_1981)",22.081202
+579,"Relative_preference_value_at_C3_(Richardson-Richardson,_1988)",22.135048
+580,"Free_energy_of_solution_in_water,_kcal/mole_(Charton-Charton,_1983)",22.200012
+581,Composition in nuclear proteins,23.838453
+582,"AA_composition_of_CYT2_of_single-spanning_proteins_(Nakashima-Nishikawa,_1992)",23.8541
+583,"Relative_mutability_(Dayhoff_et_al.,_1979b)",23.854427
+584,Composition of nuclear (%),23.854599
+585,Composition of amino acids in nuclear proteins (percent),23.857176
+586,"AA_composition_of_CYT_of_single-spanning_proteins_(Nakashima-Nishikawa,_1992)",23.85876
+587,Valids-Contacts per-Atom,28.4299
+588,"Partial_specific_volume_(Cohn-Edsall,_1944)",28.432207
+589,Composition difference: A-B (%),28.441143
+590,"Volume_(Grantham,_1975)",28.441505
+591,"Entropy_of_formation_(Hutchens,_1971)",29.241362
+592,"Energy_transfer_from_out_to_in(95%buried)_(Radzicka-Wolfenden,_1988)",29.256474
+593,Transfer free energy,29.290253
+594,"Consensus_normalized_hydrophobicity_scale_(Eisenberg,_1984)",29.33015
+595,"Transfer_free_energy_(Janin,_1979)",29.346588
+596,"van_der_Waals_parameter_epsilon_(Levitt,_1976)",29.545198
+597,van der Waals Parameter Epsilon,29.592037
+598,Hydrogen Bond Donors,29.611473
+599,van der Waals Parameter R0,29.630188
+600,"alpha-CH_chemical_shifts_(Bundi-Wuthrich,_1980)",29.880033
+601,Steric,29.955837
+602,"Conformational_parameter_of_inner_helix_(Beghin-Dirkx,_1975)",30.041958
+603,"Negative_charge_(Fauchere_et_al.,_1988)",30.389029
+604,bu +,30.419046
+605,Linker propensity index,30.493614
+606,"Principal_component_I_(Sneath,_1966)",30.497965
+607,"Mean_fractional_area_loss_(Rose_et_al.,_1985)",30.50709
+608,"Weights_for_coil_at_the_window_position_of_-2_(Qian-Sejnowski,_1988)",30.562065
+609,"Localized_electrical_effect_(Fauchere_et_al.,_1988)",30.563427
+610,"Free_energy_change_of_epsilon(i)_to_epsilon(ex)_(Wertz-Scheraga,_1978)",30.596928
+611,"Average_relative_probability_of_helix_(Kanehisa-Tsong,_1981)",30.620892
+612,"Hydrophobicity_index_(Argos_et_al.,_1983)",30.685255
+613,Ee,30.729801
+614,"Helix_termination_parameter_at_posision_j-2,j-1,j_(Finkelstein_et_al.,_1992)",30.73023
+615,"Frequency_of_the_2nd_residue_in_turn_(Chou-Fasman,_1978b)",30.733496
+616,"Weights_for_coil_at_the_window_position_of_5_(Qian-Sejnowski,_1988)",30.73969
+617,"Weights_for_coil_at_the_window_position_of_-4_(Qian-Sejnowski,_1988)",30.762255
+618,"Conformational_parameter_of_beta-turn_(Beghin-Dirkx,_1975)",30.793211
+619,"Partial_specific_volume_(Cohn-Edsall,_1943)",30.80182
+620,"Normalized_frequency_of_alpha-helix_(Burgess_et_al.,_1974)",30.831747
+621,"Sequence_frequency_(Jungck,_1979)",30.837526
+622,"Transfer_free_energy_(Janin,_1980)",30.849825
+623,"Normalized_frequency_of_C-terminal_non_helical_region_(Chou-Fasman,_1979b)",30.852863
+624,"Frequency_of_occurrence_in_beta-bends_(Lewis_et_al.,_1971)",30.866228
+625,"Intercept_in_regression_analysis_(Prabhakaran-Ponnuswamy,_1982)",30.897644
+626,"Weights_for_beta-sheet_at_the_window_position_of_3_(Qian-Sejnowski,_1988)",30.900349
+627,"Direction_of_hydrophobic_moment_(Eisenberg-McLachlan,_1986)",30.938423
+628,EV6,30.941711
+629,He.1,30.945984
+630,KDe,30.955597
+631,"Frequency_of_the_3rd_residue_in_turn_(Chou-Fasman,_1978b)",30.97144
+632,P-value (NCR/CCR),30.98608
+633,"pK-a(RCOOH)_(Fauchere_et_al.,_1989)",30.99341
+634,EV1,31.00074
+635,"Normalized_frequency_of_extended_structure_(Burgess_et_al.,_1974)",31.006264
+636,Accessible,31.03463
+637,"Weights_for_coil_at_the_window_position_of_4_(Qian-Sejnowski,_1988)",31.034971
+638,"Residue_accessible_surface_area_in_tripeptide_(Chothia,_1977)",31.050873
+639,"Helix_termination_parameter_at_posision_j+1_(Finkelstein_et_al.,_1992)",31.064175
+640,Angle,31.069613
+641,"P6,7 (NH)",31.071325
+642,P-value (NCR/CRS),31.082457
+643,q (C3),31.089378
+644,"Weights_for_alpha-helix_at_the_window_position_of_-1_(Qian-Sejnowski,_1988)",31.092392
+645,EV3,31.093184
+646,Frequency,31.098394
+647,"pK_(-COOH)_(Jones,_1976)",31.11896
+648,"Relative_frequency_of_occurrence_(Jones_et_al.,_1993)",31.128748
+649,Donors,31.139526
+650,P-value (CRS/CCR),31.141127
+651,Hydrophilicity,31.14371
+652,"Weights_for_beta-sheet_at_the_window_position_of_-6_(Qian-Sejnowski,_1988)",31.155722
+653,Polarity,31.1639
+654,Fraction of surface,31.163965
+655,q (O2),31.163992
+656,Hydrophobicity,31.166086
+657,"Smoothed_upsilon_steric_parameter_(Fauchere_et_al.,_1988)",31.18842
+658,"Relative_population_of_conformational_state_A_(Vasquez_et_al.,_1983)",31.19229
+659,"Weights_for_beta-sheet_at_the_window_position_of_2_(Qian-Sejnowski,_1988)",31.203972
+660,"Principal_component_IV_(Sneath,_1966)",31.210499
+661,"A_parameter_defined_from_the_residuals_obtained_from_the_best_correlation_of_the_Chou-Fasman_parameter_of_beta-sheet_(Charton-Charton,_1983)",31.21575
+662,"Normalized_frequency_of_beta-turn_(Chou-Fasman,_1979b)",31.230515
+663,"Weights_for_coil_at_the_window_position_of_-3_(Qian-Sejnowski,_1988)",31.238308
+664,"Weights_for_alpha-helix_at_the_window_position_of_-3_(Qian-Sejnowski,_1988)",31.246365
+665,EV2,31.253845
+666,"Weights_for_alpha-helix_at_the_window_position_of_-2_(Qian-Sejnowski,_1988)",31.261518
+667,"Weights_for_coil_at_the_window_position_of_-5_(Qian-Sejnowski,_1988)",31.26216
+668,"Weights_for_alpha-helix_at_the_window_position_of_-5_(Qian-Sejnowski,_1988)",31.279617
+669,"Apparent_partial_specific_volume_(Bull-Breese,_1974)",31.288607
+670,"Helix_initiation_parameter_at_posision_i-1_(Finkelstein_et_al.,_1992)",31.294258
+671,EV5,31.328598
+672,Ce.1,31.33575
+673,R0,31.345121
+674,"Proportion_of_residues_95%_buried_(Chothia,_1976)",31.347658
+675,"Hydrophobicity_(Jones,_1976)",31.350409
+676,"Weights_for_beta-sheet_at_the_window_position_of_4_(Qian-Sejnowski,_1988)",31.351181
+677,"Relative_frequency_of_occurrence_(Jones_et_al.,_1992)",31.356964
+678,"STERIMOL_length_of_the_side_chain_(Fauchere_et_al.,_1989)",31.362494
+679,Epsilon,31.376287
+680,Ee.1,31.387491
+681,"Weights_for_beta-sheet_at_the_window_position_of_5_(Qian-Sejnowski,_1988)",31.405554
+682,Linker index,31.421265
+683,"Weights_for_beta-sheet_at_the_window_position_of_-2_(Qian-Sejnowski,_1988)",31.423592
+684,"Weights_for_alpha-helix_at_the_window_position_of_-4_(Qian-Sejnowski,_1988)",31.430006
+685,"Weights_for_alpha-helix_at_the_window_position_of_6_(Qian-Sejnowski,_1988)",31.448519
+686,"Weights_for_coil_at_the_window_position_of_6_(Qian-Sejnowski,_1988)",31.458036
+687,Diff (V - I)-Contacts per-Atom.1,31.47033
+688,"Correlation_coefficient_in_regression_analysis_(Prabhakaran-Ponnuswamy,_1982)",31.477257
+689,FreeEnergy,31.485613
+690,"Weights_for_alpha-helix_at_the_window_position_of_5_(Qian-Sejnowski,_1988)",31.491318
+691,KDe.1,31.495007
+692,Ce,31.51931
+693,"Polarizability_parameter_(Charton-Charton,_1982)",31.523924
+694,"Helix-coil_equilibrium_constant_(Finkelstein-Ptitsyn,_1978)",31.536558
+695,"Electron-ion_interaction_potential_(Veljkovic_et_al.,_1985)",31.5397
+696,"RF_value_in_high_salt_chromatography_(Weber-Lacey,_1978)",31.568235
+697,Diff (V - I)-Contacts per-Atom,31.601662
+698,"Relative_population_of_conformational_state_E_(Vasquez_et_al.,_1983)",31.606407
+699,ex ¦µ,31.611975
+700,"Helix_initiation_parameter_at_posision_i,i+1,i+2_(Finkelstein_et_al.,_1992)",31.62211
+701,"Slope_in_regression_analysis_x_1.0E1_(Prabhakaran-Ponnuswamy,_1982)",31.62993
+702,"Average_flexibility_indices_(Bhaskaran-Ponnuswamy,_1988)",31.642038
+703,the relative frequencies of distributions of amino acid residues  involved in direct polar contacts(outside the interface),31.655378
+704,"Hydrophobicity_factor_(Goldsack-Chalifoux,_1974)",31.66899
+705,"Normalized_frequency_of_N-terminal_non_helical_region_(Chou-Fasman,_1979b)",31.678345
+706,"Proportion_of_residues_100%_buried_(Chothia,_1976)",31.688234
+707,"Propensity_to_be_buried_inside_(Wertz-Scheraga,_1978)",31.710148
+708,"Weights_for_beta-sheet_at_the_window_position_of_-4_(Qian-Sejnowski,_1988)",31.718893
+709,"Frequency_of_the_1st_residue_in_turn_(Chou-Fasman,_1978b)",31.759077
+710,"Weights_for_alpha-helix_at_the_window_position_of_-6_(Qian-Sejnowski,_1988)",31.776253
+711,"Long_range_non-bonded_energy_per_atom_(Oobatake-Ooi,_1977)",31.776382
+712,"Weights_for_coil_at_the_window_position_of_-6_(Qian-Sejnowski,_1988)",31.784979
+713,"Weights_for_beta-sheet_at_the_window_position_of_-3_(Qian-Sejnowski,_1988)",31.788746
+714,"Weights_for_beta-sheet_at_the_window_position_of_-5_(Qian-Sejnowski,_1988)",31.817806
+715,"Principal_component_III_(Sneath,_1966)",31.829134
+716,"Fraction_of_site_occupied_by_water_(Krigbaum-Komoriya,_1979)",31.840145
+717,"Frequency_of_the_4th_residue_in_turn_(Chou-Fasman,_1978b)",31.848864
+718,Isoelectric,31.884535
+719,"Hydrophilicity_value_(Hopp-Woods,_1982)",31.899643
+720,the relative frequencies of distributions of amino acid residues  involved in direct polar contacts(at the interface),31.907925
+721,"Relative_population_of_conformational_state_C_(Vasquez_et_al.,_1983)",31.928537
+722,"Conformational_parameter_of_beta-structure_(Beghin-Dirkx,_1975)",31.950905
+723,He,31.963488
+724,"Principal_component_II_(Sneath,_1966)",31.984297
+725,Free Energy of solution in water,32.06732
+726,"Weights_for_beta-sheet_at_the_window_position_of_6_(Qian-Sejnowski,_1988)",32.193207
+727,"Loss_of_Side_chain_hydropathy_by_helix_formation_(Roseman,_1988)",32.236553
+728,Composition difference:A-B (%),32.274624
+729,"Free_energy_change_of_epsilon(i)_to_alpha(Rh)_(Wertz-Scheraga,_1978)",32.347744
+730,Steric parameter,32.36618
+731,"Steric_parameter_(Charton,_1981)",32.398293
+732,"Optimized_transfer_energy_parameter_(Oobatake_et_al.,_1985)",32.44092
+733,Hydrophobicity scale,32.461407
+734,"Weights_for_beta-sheet_at_the_window_position_of_-1_(Qian-Sejnowski,_1988)",32.917244
+735,"Normalized_composition_from_fungi_and_plant_(Nakashima_et_al.,_1990)",32.932674
+736,"Normalized_relative_frequency_of_extended_structure_(Isogai_et_al.,_1981)",33.07196
+737,"Free_energy_change_of_alpha(Ri)_to_alpha(Rh)_(Wertz-Scheraga,_1978)",33.078728
+738,"Normalized_composition_of_membrane_proteins_(Nakashima_et_al.,_1990)",33.104866
+739,Average side chain orientation Angle,33.10498
