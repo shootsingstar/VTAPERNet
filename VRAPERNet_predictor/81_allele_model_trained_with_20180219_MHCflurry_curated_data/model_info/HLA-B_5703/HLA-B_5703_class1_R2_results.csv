@@ -1,2 +1,0 @@
-,train_rmse,valid_rmse,train_r2,valid_r2,train_mae,valid_mae,train_r,valid_r,train_tau,valid_tau,test_r2,test_r,test_tau,test_auc,test_f1,trainable params,best_epoch,lr,batch_size,kernel_size_1,kernel_size_incept,kernel_number,lamda,model
-0,0.2522620969870881,0.1292273965650902,0.005802340239755122,-0.061149249251655435,0.19604823985586828,0.10342195216623713,0.2585128504759715,0.6021639883949353,0.13601382690174096,0.33333333333333337,0.3571290807953723,0.959207865186168,1.0,,,204841,46,5e-05,32,"(3, 3, 7)","(1, 3, 5)","(36, 24, 48)",0.001,Model_3

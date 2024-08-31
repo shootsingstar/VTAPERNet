@@ -1,0 +1,2 @@
+trainable params,best_epoch,lr,batch_size,kernel_size_1,kernel_size_incept,kernel_number,lamda,model
+331105,17,0.0001,32,"(3, 3, 31)","(1, 3, 5)","(48, 32, 64)",1e-06,Model_3

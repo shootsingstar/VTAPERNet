@@ -1,0 +1,8 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VRAPERNet_BAV_Normalized,VRAPERNet_BAV
+HLA-B*40:13,FMYALSRAF,4.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.8609881499195386,0.6948449015617371,27.159054977964665
+HLA-B*40:13,KELGVHMSL,88.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.5856659504314212,0.7374963760375977,17.11971990905562
+HLA-B*40:13,RMFKRVFNM,9.9,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.7881162906596939,0.8870248198509216,3.3952126689299926
+HLA-B*40:13,RMMGVKYLM,3.2,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.8924977222979134,0.74718177318573,15.4164814380376
+HLA-B*40:13,RQRAVRMVL,51.4,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.6358854988611401,0.7741395831108093,11.516256363012193
+HLA-B*40:13,RVMAIFMAL,478.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.42968736986191103,0.6619558930397034,38.76672546819965
+HLA-B*40:13,YARNFLIPF,2445.6,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.27890890501719146,0.7036191821098328,24.699295904175145

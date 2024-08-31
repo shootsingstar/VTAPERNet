@@ -1,0 +1,9 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VRAPERNet_BAV_Normalized,VRAPERNet_BAV
+HLA-A*32:15,ETTNWLWTF,18.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.7303298962892466,0.6736876368522644,34.14538441707077
+HLA-A*32:15,GMMRWCMPV,813.3,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.3806619813246974,0.627764880657196,56.12051662771436
+HLA-A*32:15,HASHYTIPW,44.8,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.6485872409327126,0.5802481174468994,93.84291840774155
+HLA-A*32:15,KAMRPWQSF,1727.7,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.31102596308081043,0.5644398331642151,111.3484456740348
+HLA-A*32:15,MPYHGYHII,133.5,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.5476708164258792,0.6227343678474426,59.25976012033972
+HLA-A*32:15,MTFPVSLEY,18.0,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.7328622008770025,0.5850343704223633,89.10684075506563
+HLA-A*32:15,SILPISWAY,40.0,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.6590614560532103,0.6963779330253601,26.712281660255446
+HLA-A*32:15,YAMAIRQAI,92.0,=,quantitative,Buus - purified MHC/competitive/fluorescence,9,0.5820812166212059,0.6658602952957153,37.163144128124095
