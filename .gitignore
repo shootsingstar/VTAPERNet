@@ -18,11 +18,14 @@ mhcflurry_test_no_mass_spec
 # middle data
 *.data
 
-# model file
+# model weighs file
 *.h5
 
 # Ignore TensorFlow SaveModel folder
 tf_model/
+
+# Ignore reorganize folder code
+reorganize_folder.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
