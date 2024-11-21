@@ -15,5 +15,5 @@
 
 2. Download the raw test dataset (model selection dataset) from [MHCflurry Data Site](https://data.mendeley.com/datasets/8pz43nvvxh/1) compressed as `models_class1_selected_no_mass_spec.20180225.tar.bz2`, or click this [MHCflurry Test Dataset Download Link](https://data.mendeley.com/public-files/datasets/8pz43nvvxh/files/44cc86f1-6452-4445-bf40-0121cb67221d/file_downloaded).
 
-### ZSBenchmark
+### STDbenchmark
 1. The [MHC-I raw dataset](https://doi.org/10.1371/journal.pcbi.1006457.s001) used in [The Paper of Zhao and Sher](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006457) can be downloaded from [Zhao and Sher Dataset Github](https://github.com/juvejones/MHC_Benchmarking_PLoS_CompBio_Data/tree/master/raw_data/9mer).
