@@ -1,6 +1,6 @@
 # VRAPER & VRAPERNet
 
-### Deep Learning Volumetric Residue-Aligned Physicochemical Evolutionary Representations of Peptides for Enhanced MHC-I Binding Affinity Quantification
+### Deep Learning Knowledge-Based Evolutionarily-Informed Volumetric Peptide Representation for Enhanced MHC-I Binding Affinity Value Prediction
 
 ## VRAPER generation & VRAPERNet architecture
 ![image](picture/VRAPERNet.png)
