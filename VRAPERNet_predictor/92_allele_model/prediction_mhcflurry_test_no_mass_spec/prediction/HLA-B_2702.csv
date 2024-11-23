@@ -1,3 +1,0 @@
-allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VRAPERNet_BAV_Normalized,VRAPERNet_BAV
-HLA-B*27:02,RRAIATPGM,12000.0,=,quantitative,pez - cellular MHC/direct/fluorescence,9,0.13189885394383838,0.14832481741905212,10046.06852953019
-HLA-B*27:02,SRQRQAIPY,5000.0,=,quantitative,Buus - purified MHC/direct/fluorescence,9,0.21281259490425355,0.18246786296367645,6943.189035189949

@@ -1,5 +1,0 @@
-allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VRAPERNet_BAV_Normalized,VRAPERNet_BAV
-HLA-B*39:06,HRALERLAA,3.1,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.8954320428985791,0.6766495108604431,33.068481250544544
-HLA-B*39:06,NRVMLPKAA,2.7,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.9082003580016594,0.6059438586235046,71.06536457241107
-HLA-B*39:06,YHDIKRITA,17.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.7381449721443496,0.62984699010849,54.87037022353582
-HLA-B*39:06,YYDEKVVKL,3733.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.2398210700153109,0.5741130709648132,100.28359741889307

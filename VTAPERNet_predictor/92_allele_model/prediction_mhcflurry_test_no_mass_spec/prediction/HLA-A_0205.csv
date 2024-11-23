@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VTAPERNet_BAV_Normalized,VTAPERNet_BAV
+HLA-A*02:05,FLPSDYFPSQ,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,10,0.4395647443696111,0.4462962746620178,399.794851145957
+HLA-A*02:05,FLPSDYFPST,195.5,=,quantitative,Sette - purified MHC/competitive/radioactivity,10,0.5124151123293598,0.4989209473133087,226.23273109890565
+HLA-A*02:05,YDVAYQATV,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.4395647443696111,0.5693095922470093,105.63341182747003
+HLA-A*02:05,YLVAYQATK,430.0,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.4395647443696111,0.4079899191856384,605.1145727497212
+HLA-A*02:05,YLVKYQATV,4.3,=,quantitative,Sette - purified MHC/competitive/radioactivity,9,0.8651899341781183,0.7145161628723145,21.952297889800203

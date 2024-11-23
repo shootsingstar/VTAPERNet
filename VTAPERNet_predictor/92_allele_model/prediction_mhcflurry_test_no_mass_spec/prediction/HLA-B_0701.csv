@@ -1,0 +1,11 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_source,pep_len,Normalized_QM,VTAPERNet_BAV_Normalized,VTAPERNet_BAV
+HLA-B*07:01,APRAWISSL,14.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.7560895186347992,0.6316341757774353,53.819537168474106
+HLA-B*07:01,APRAWLQRL,128.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.5515591783511237,0.6644825339317322,37.721287618338316
+HLA-B*07:01,APRQWPMPL,11.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.7783785203571697,0.6013268232345581,74.70562425555792
+HLA-B*07:01,IPKQKVAGPL,42.4,=,quantitative,kim2014,10,0.6536760491999172,0.6058592200279236,71.1304739690063
+HLA-B*07:01,LPACVYGPAV,220.3,=,quantitative,kim2014,10,0.5013770049630601,0.5993238687515259,76.34227929043345
+HLA-B*07:01,LPRAALQRL,49.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.6403049863121345,0.640232503414154,49.038443267967104
+HLA-B*07:01,LPRDTGPEL,593.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.40985903489373204,0.574595034122467,99.76200624467553
+HLA-B*07:01,RPLMKNTYL,38.0,=,quantitative,Lund - purified MHC/direct/fluorescence,9,0.6638021534168019,0.5939486026763916,80.9139376049661
+HLA-B*07:01,SPRHYSTDL,86.0,=,quantitative,llsberg - cellular MHC/competitive/fluorescence,9,0.5883143647525967,0.5163615942001343,187.32785566585002
+HLA-B*07:01,WMRLLPLLAL,992.1,=,quantitative,Roep - purified MHC/competitive/fluorescence,10,0.3622952589890411,0.7509283423423767,14.804039945126243
