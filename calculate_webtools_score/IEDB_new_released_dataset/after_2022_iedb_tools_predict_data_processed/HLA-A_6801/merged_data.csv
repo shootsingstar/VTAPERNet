@@ -1,0 +1,2 @@
+seq #,peptide,start,end,peptide length,allele,peptide index,median binding percentile,netmhcpan_ba core,netmhcpan_ba icore,netmhcpan_ba IC50,netmhcpan_ba percentile,ann IC50,ann percentile,smmpmbec IC50,smmpmbec percentile,smm IC50,smm percentile,mhcflurry IC50,mhcflurry percentile
+1,TVLEFILQK,1,9,9,HLA-A*68:01,1,0.47,TVLEFILQK,TVLEFILQK,49.17,0.47,50.76,0.45,111.13478150493036,1.7,124.59195485826608,1.9,25.06,0.19

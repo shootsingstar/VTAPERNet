@@ -1,0 +1,3 @@
+seq #,peptide,start,end,peptide length,allele,peptide index,median binding percentile,netmhcpan_ba core,netmhcpan_ba icore,netmhcpan_ba IC50,netmhcpan_ba percentile,ann IC50,ann percentile,smmpmbec IC50,smmpmbec percentile,smm IC50,smm percentile,mhcflurry IC50,mhcflurry percentile
+1,GLYPQLSAI,1,9,9,HLA-A*02:03,1,0.15,GLYPQLSAI,GLYPQLSAI,3.26,0.04,2.65,0.02,8.084813386842312,0.4,8.202571033045343,0.4,12.17,0.15
+2,QLSAIALGV,1,9,9,HLA-A*02:03,2,0.42,QLSAIALGV,QLSAIALGV,9.7,0.13,12.99,0.21,31.093527879498136,1.1,29.170911521376855,1,14.23,0.42

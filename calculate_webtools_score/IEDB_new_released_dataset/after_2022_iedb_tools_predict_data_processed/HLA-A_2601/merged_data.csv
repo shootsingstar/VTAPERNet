@@ -1,0 +1,2 @@
+seq #,peptide,start,end,peptide length,allele,peptide index,median binding percentile,netmhcpan_ba core,netmhcpan_ba icore,netmhcpan_ba IC50,netmhcpan_ba percentile,ann IC50,ann percentile,smmpmbec IC50,smmpmbec percentile,smm IC50,smm percentile,mhcflurry IC50,mhcflurry percentile
+1,EVASFKQAL,1,9,9,HLA-A*26:01,1,0.32,EVASFKQAL,EVASFKQAL,574.33,0.2,711.12,0.32,571.2286744979199,0.7,624.611534579779,0.8,52.87,0.14

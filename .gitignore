@@ -2,6 +2,7 @@
 szbl_wet_experiment/
 
 # ignore large files
+*.zip
 mhc_ligand_full_single_file.zip
 data_curated.20180219.tar.bz2
 models_class1_selected_no_mass_spec.20180225.tar.bz2

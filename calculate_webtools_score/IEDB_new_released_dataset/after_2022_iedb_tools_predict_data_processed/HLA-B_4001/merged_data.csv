@@ -1,0 +1,3 @@
+seq #,peptide,start,end,peptide length,allele,peptide index,median binding percentile,netmhcpan_ba core,netmhcpan_ba icore,netmhcpan_ba IC50,netmhcpan_ba percentile,ann IC50,ann percentile,smmpmbec IC50,smmpmbec percentile,smm IC50,smm percentile,mhcflurry IC50,mhcflurry percentile
+1,GEYAPFARV,1,9,9,HLA-B*40:01,1,0.83,GEYAPFARV,GEYAPFARV,145.34,0.22,134.63,0.25,232.87882436455791,1.3,137.68923912009654,1.0,68.41,0.83
+2,LEHGLYPQL,1,9,9,HLA-B*40:01,2,0.23,LEHGLYPQL,LEHGLYPQL,23.5,0.05,17.7,0.05,39.82263562236151,0.3,41.773416872487694,0.3,38.93,0.23
